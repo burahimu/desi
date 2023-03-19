@@ -14,7 +14,7 @@ This repository contains my notes from my Islamic Studies program at IESH in Cha
 
 ### second academic year
 
-- [Droit successoral](#)
+- [Droit successoral](./courses/droit-successoral)
 
 ## How to Use
 Each course folder contains a README file with an overview of the course, as well as subfolders for each lecture. Inside each lecture folder, you'll find a Markdown file with my notes, as well as any relevant images or diagrams.

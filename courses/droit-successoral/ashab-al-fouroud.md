@@ -1,4 +1,4 @@
-# LES HERITIERS : LES AYANT DROITS DES PARTS LEGALES « ASHAB AL FOUROUD »
+# Les héritiers: Les ayants droits de parts légales « Ashab al fouroud »
 
 ## Catégories d'héritiers
 
@@ -21,4 +21,10 @@
 - La soeur germaine
 - La demi-soeur paternelle
 - La demi-soeur maternelle
+
+### La descendance héritière
+
+> ℹ️Le schéma ci-dessus indique la classification par ordre de priorité
+
+![Ce shéma décrit qui sont considérés comme des descendants héritiers](./assets/descendance-heritiere.png "Descendance héritière")
 
