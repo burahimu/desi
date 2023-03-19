@@ -2,5 +2,19 @@
 
 ## Sommaire
 
-- [introduction](./introduction.md)
-- [Les héritiers: Les ayants droits de parts légales « Ashab al fouroud »](./ashab-al-fouroud.md)
+- [Chapitre 1: Les héritiers: Les ayants droits de parts légales « Ashab al fouroud »](chapter-1/ashab-al-fouroud.md)
+  - [Introduction](chapter-1/introduction.md)
+  - [Les hommes](chapter-1/men.md)
+    - [Le mari](chapter-1/men/husbrand.md)
+    - [Le père](chapter-1/men/father.md)
+    - [Le grand-père](chapter-1/men/grandfather.md)
+    - [Le frère utérin](chapter-1/men/uterine-brother.md)
+  - [Les femmes](chapter-1/women.md)
+    - [L'épouse](chapter-1/women/wife.md)
+    - [La mère](chapter-1/women/mother.md)
+    - [La grand-mère](chapter-1/women/grandmother.md)
+    - [La fille](chapter-1/women/daughter.md)
+    - [La fille du fils (petite-fille)](chapter-1/women/granddaughter.md)
+    - [La sœur germaine](chapter-1/women/sister.md)
+    - [La sœur consanguine](chapter-1/women/insangine-sister.md)
+    - [La sœur germaine](chapter-1/women/uterine-sister.md)

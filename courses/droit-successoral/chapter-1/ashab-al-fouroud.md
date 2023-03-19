@@ -24,7 +24,7 @@
 
 ### La descendance héritière
 
-> ℹ️Le schéma ci-dessus indique la classification par ordre de priorité
+> ℹ️ Le schéma ci-dessus indique la classification par ordre de priorité
 
-![Ce shéma décrit qui sont considérés comme des descendants héritiers](./assets/descendance-heritiere.png "Descendance héritière")
+![Ce schéma décrit qui sont considérés comme des descendants héritiers](./assets/descendance-heritiere.png "Descendance héritière")
 
