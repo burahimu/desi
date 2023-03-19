@@ -17,4 +17,4 @@
     - [La fille du fils (petite-fille)](chapter-1/women/granddaughter.md)
     - [La sœur germaine](chapter-1/women/sister.md)
     - [La sœur consanguine](chapter-1/women/insangine-sister.md)
-    - [La sœur germaine](chapter-1/women/uterine-sister.md)
+    - [La sœur utérine](chapter-1/women/uterine-sister.md)
