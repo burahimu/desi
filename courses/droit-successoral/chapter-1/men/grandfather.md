@@ -34,8 +34,8 @@ Lorsque le défunt(e) laisse une descendance héritière féminine.
 
 ### Il hérite du reste
 
-Lorsque le défunt(s) ne laisse pas de descendance héritière.
+Lorsque le défunt(e) ne laisse pas de descendance héritière.
 
 ![Schéma de l'héritage du père](../assets/pere.png "héritage du père")
 
-> ℹ️ Rappel : Lorsque le grand-père est héritier, les situations sont les mêmes que le père pusiqu'il hérite en qualité de père
+> ℹ️ Rappel : Lorsque le grand-père est héritier, les situations sont les mêmes que le père puisqu'il hérite en qualité de père.
