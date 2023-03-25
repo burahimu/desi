@@ -4,8 +4,6 @@
 
 - [Chapitre 1: La Fatiha](chapter-1/fatiha.md)
   - [Introduction](chapter-1/fatiha/introduction.md)
-  - [La basmallah au début de la Fatiha et au début de chaque sourate](#)
-    - [La Fatiha](#)
-    - [Statut juridique de la basmallah pendant la prière](#)
-    - [Statut juridique de la récitation de la Fatiha pendant la prière](#)
-    - [Le prieur derrière l'imam doit-il réciter la Fatiha ?](#)
+  - [La fatiha](chapter-1/fatiha/fatiha.md)
+    - [Introduction](chapter-1/fatiha/fatiha.md#introduction)
+    - [Statut juridique de la basmallah pendant la prière](chapter-1/fatiha/fatiha.md#statut-juridique-de-la-basmallah-pendant-la-prière)
