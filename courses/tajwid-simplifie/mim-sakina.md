@@ -24,9 +24,9 @@ Les deux mim fusionnent qu'on prononce avec un surplus de nasillement (ghounna)
 
 ### Exemple:
 
-| Extrait du Coran                                                                                        | Sourate / verset |
-|---------------------------------------------------------------------------------------------------------|------------------|
-| عَلَيْهِم مُّؤْصَدَةٌ <br /><audio src="assets/al-idgham-ash-shafawi.webm" controls="controls"></audio> | 104/8            |
+| Extrait du Coran                                                                                       | Sourate / verset |
+|--------------------------------------------------------------------------------------------------------|------------------|
+| عَلَيْهِم مُّؤْصَدَةٌ <br /><audio src="assets/al-idgham-ash-shafawi.mp4" controls="controls"></audio> | 104/8            |
 
 ## La dissimulation labiale (Al ikhfaa ash-shafawi) - الإخفء الشفوي
 
@@ -40,10 +40,10 @@ une feuille de passer à travers.
 
 ### Exemple
 
-| Extrait du Coran                                                                                          | Sourate / verset |
-|-----------------------------------------------------------------------------------------------------------|------------------|
-| تَرْمِيهِم بِحِجَارَةٍ<br /><audio src="assets/al-ikhfaa-ash-shafawi.webm" controls="controls"></audio>   | 105/4            |
-| عَلَيْهِم بِمُصَيْطِرٍ<br /><audio src="assets/al-ikhfaa-ash-shafawi-2.webm" controls="controls"></audio> | 88/22            |
+| Extrait du Coran                                                                                         | Sourate / verset |
+|----------------------------------------------------------------------------------------------------------|------------------|
+| تَرْمِيهِم بِحِجَارَةٍ<br /><audio src="assets/al-ikhfaa-ash-shafawi.mp4" controls="controls"></audio>   | 105/4            |
+| عَلَيْهِم بِمُصَيْطِرٍ<br /><audio src="assets/al-ikhfaa-ash-shafawi-2.mp4" controls="controls"></audio> | 88/22            |
 
 ## L'apparition labiale (Al idhaar ash-shafawi) - الإظهار الشفوي
 
@@ -57,7 +57,7 @@ aucune nasalisation et la lettre Mim est prononcée clairement.
 
 ### Exemple
 
-| Extrait du Coran                                                                                             | Sourate / verset |
-|--------------------------------------------------------------------------------------------------------------|------------------|
-| رَبِّهِمْ جَنَّاتُ <br /><audio src="assets/al-idhaar-ash-shafawi.webm" controls="controls"></audio>         | 98/8             |
-| عَنْهُمْ وَرَضُوا عَنْهُ <br /><audio src="assets/al-idhaar-ash-shafawi-2.webm" controls="controls"></audio> | 98/9             |
+| Extrait du Coran                                                                                            | Sourate / verset |
+|-------------------------------------------------------------------------------------------------------------|------------------|
+| رَبِّهِمْ جَنَّاتُ <br /><audio src="assets/al-idhaar-ash-shafawi.mp4" controls="controls"></audio>         | 98/8             |
+| عَنْهُمْ وَرَضُوا عَنْهُ <br /><audio src="assets/al-idhaar-ash-shafawi-2.mp4" controls="controls"></audio> | 98/9             |
